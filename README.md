@@ -1,0 +1,4 @@
+backgraounds
+============
+
+Ckeditor PLugin background
