@@ -6,7 +6,7 @@ Modification Log:-
 Dec 2013 - Add-in color picker in table background color field
 
 
--=== Origin Work From and Credit By ===-
+-=== Origin Work From and Credit To ===-
 
 @file Background plugin for CKEditor
 Copyright (C) 2011-13 Alfonso Mart铆nez de Lizarrondo
