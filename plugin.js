@@ -1,6 +1,12 @@
 /*
+ * Modification Log:-
+ * Dec 2013 - Futher Modification on Table Color Picker add on
+ * 
+ * 
+ * -=== Origin Work From and Credit By ===-
+ * 
  * @file Background plugin for CKEditor
- * Copyright (C) 2011-13 Alfonso Martínez de Lizarrondo
+ * Copyright (C) 2011-13 Alfonso Mart铆nez de Lizarrondo
  *
  * == BEGIN LICENSE ==
  *
@@ -397,8 +403,8 @@
     };
     var textsEs = {
         label: 'Imagen de fondo',
-        position: 'Posición del fondo',
-        repeat: 'Repetición del fondo',
+        position: 'Posici贸n del fondo',
+        repeat: 'Repetici贸n del fondo',
         color: 'Background Color',
         chooseColor: 'Choose',
         attachment: 'Background Attachment',
