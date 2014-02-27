@@ -1,6 +1,6 @@
 /*
  * Modification Log:-
- * Dec 2013 - Futher Modification on Table Color Picker add on
+ * Dec 2013 - Add-in color picker in table background color field
  * 
  * 
  * -=== Origin Work From and Credit By ===-
